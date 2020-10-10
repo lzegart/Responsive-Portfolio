@@ -1,4 +1,7 @@
-    <!-- nav bar styles -->
-.navbarnavbar-lightnavbar-1white [
-    background-color = purple
-]
+.page-header {
+    color: #4AAAA5
+}
+
+article {
+    background-color: black;
+}

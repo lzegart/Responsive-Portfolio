@@ -1,10 +1,17 @@
 
 .page-header {
-    color:#37bff5
+    color:#37bff5;
+    padding: 25px;
+}
+
+.container {
+    padding: 70px;
+    margin: 50px;
 }
 
 article {
     background-color: white;
+    padding: 10px;
 }
 
 body {
@@ -22,11 +29,6 @@ figure {
 form {
     background-color: white;
     width: 50%;
-    margin: 10%;
+    margin: 20px;
     padding: 50px;
-}
-
-.container {
-    padding: 50px;
-    margin: 50px;
 }
